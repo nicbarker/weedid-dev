@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11201" systemVersion="15G1004" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
+                        <viewControllerLayoutGuide type="bottom" id="xb3-aO-Qok"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="1024" height="1366"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="LaunchImage" translatesAutoresizingMaskIntoConstraints="NO" id="ZBe-3i-2Jy"/>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="WeedID" textAlignment="center" lineBreakMode="middleTruncation" baselineAdjustment="alignBaselines" minimumFontSize="18" translatesAutoresizingMaskIntoConstraints="NO" id="hAn-PD-zwL">
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="30"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon" translatesAutoresizingMaskIntoConstraints="NO" id="G9N-In-lXv">
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="24" id="EdJ-JA-KAB"/>
+                                    <constraint firstAttribute="width" constant="45" id="j7Q-M5-Qmj"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="hAn-PD-zwL" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leadingMargin" constant="-49" id="4Qs-Hl-UBz"/>
+                            <constraint firstItem="hAn-PD-zwL" firstAttribute="centerX" secondItem="G9N-In-lXv" secondAttribute="centerX" id="7Vw-Y0-7we"/>
+                            <constraint firstItem="ZBe-3i-2Jy" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="LWD-3R-vTJ"/>
+                            <constraint firstAttribute="trailing" secondItem="ZBe-3i-2Jy" secondAttribute="trailing" id="QsZ-GF-wA8"/>
+                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="ZBe-3i-2Jy" secondAttribute="bottom" id="Xd5-kK-emz"/>
+                            <constraint firstItem="G9N-In-lXv" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" constant="-22.5" id="b8q-Is-PUU"/>
+                            <constraint firstItem="G9N-In-lXv" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="l67-X3-s9f"/>
+                            <constraint firstItem="ZBe-3i-2Jy" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="uGP-ho-7xD"/>
+                            <constraint firstItem="hAn-PD-zwL" firstAttribute="top" secondItem="G9N-In-lXv" secondAttribute="bottom" constant="8" symbolic="YES" id="v2n-hC-eIa"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="53" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="LaunchImage" width="1824" height="2736"/>
+        <image name="icon" width="250" height="250"/>
+    </resources>
+</document>
