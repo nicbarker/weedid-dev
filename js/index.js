@@ -40,6 +40,38 @@ export default class project extends Component {
     }
 
     render () {
+        const iosBarStyle = {
+            marginTop: 20,
+            backgroundColor: '#fefefe',
+            borderBottomColor: '#eee',
+            borderBottomWidth: 1,
+            borderTopColor: '#eee',
+            borderTopWidth: 1
+        }
+
+        const androidBarStyle = {
+            paddingTop: 24,
+            backgroundColor: '#fefefe',
+            borderBottomColor: '#eee',
+            borderBottomWidth: 1,
+            borderTopColor: '#eee',
+            borderTopWidth: 1,
+            height: 84,
+        }
+
+        const barStyle = Platform.OS === 'ios' ? iosBarStyle : androidBarStyle
+
+        const iosBackButtonStyle = {
+            paddingLeft: 10
+        }
+
+        const androidBackButtonStyle = {
+            paddingLeft: 10,
+            marginTop: 27
+        }
+
+        const backButtonStyle = Platform.OS === 'ios' ? iosBackButtonStyle : androidBackButtonStyle
+
         return (
             <Navigator initialRoute={{ scene: PLANT_TYPE_SELECTOR }}
             navigationBar={
@@ -50,9 +82,10 @@ export default class project extends Component {
                           return null
                         } else {
                           return (
-                            <TouchableHighlight activeOpacity={0.5} underlayColor={"rgba(0, 0, 0, 0)"} onPress={() => navigator.pop()} style={{ paddingLeft: 10 }}>
+                            <TouchableHighlight activeOpacity={0.5} underlayColor={"rgba(0, 0, 0, 0)"} onPress={() => navigator.pop()} style={backButtonStyle}>
                               <Text style={{ fontSize: 16, color: '#00B4CC' }}>Back</Text>
                             </TouchableHighlight>
+
                           )
                         }
                     },
@@ -78,7 +111,7 @@ export default class project extends Component {
                         )
                     },
                     }}
-                style={{ marginTop: Platform.OS === 'ios' ? 20 : 0, paddingTop: Platform.OS === 'ios' ? 0 : 24, backgroundColor: '#fefefe', borderBottomColor: '#eee', borderBottomWidth: 1, borderTopColor: '#eee', borderTopWidth: 1 }}
+                style={barStyle}
                 />
             }
             renderScene={(route, navigator) => {

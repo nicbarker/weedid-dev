@@ -12,8 +12,13 @@ import {
 import _ from 'lodash'
 
 const styles = StyleSheet.create({
-    container: {
+    outerContainer: {
+        flex: 1,
         marginTop: 84,
+        flexDirection: 'column',
+        alignItems: 'stretch',
+    },
+    container: {
         flexDirection: 'column',
         alignItems: 'stretch',
         backgroundColor: '#F5FCFF',
@@ -52,33 +57,35 @@ export default class PlantData extends Component {
             )
         })
         return (
-            <ScrollView contentContainerStyle={styles.container}>
-                <ScrollView horizontal={true} style={{flexDirection: 'row'}}>
-                    {images}
+            <View style={styles.outerContainer}>
+                <ScrollView contentContainerStyle={styles.container}>
+                    <ScrollView horizontal={true} style={{flexDirection: 'row'}}>
+                        {images}
+                    </ScrollView>
+                    <View style={styles.body}>
+                        <Text style={styles.label}>Scientific Name</Text>
+                        <Text style={styles.data}>{this.props.plant.scientificName}</Text>
+                        <Text style={styles.label}>Common Name</Text>
+                        <Text style={styles.data}>{this.props.plant.commonName}</Text>
+                        <Text style={styles.label}>Khmer Name</Text>
+                        <Text style={styles.data}>{this.props.plant.khmerName || 'None Available'}</Text>
+                        <Text style={styles.label}>Family Name</Text>
+                        <Text style={styles.data}>{this.props.plant.familyName}</Text>
+                        <Text style={styles.label}>Plant Type</Text>
+                        <Text style={styles.data}>{this.props.plant.plantType}</Text>
+                        <Text style={styles.label}>Description / Characteristics</Text>
+                        <Text style={styles.data}>{this.props.plant.description}</Text>
+                        <Text style={styles.label}>Habitat</Text>
+                        <Text style={styles.data}>{this.props.plant.habitat}</Text>
+                        <Text style={styles.label}>Control Methods</Text>
+                        <Text style={styles.data}>{this.props.plant.controlMethods}</Text>
+                        <Text style={styles.label}>Reference</Text>
+                        <Text style={styles.data}>{this.props.plant.reference}</Text>
+                        <Text style={styles.label}>Image Copyright</Text>
+                        <Text style={styles.data}>{this.props.plant.imageCopyright}</Text>
+                    </View>
                 </ScrollView>
-                <View style={styles.body}>
-                    <Text style={styles.label}>Scientific Name</Text>
-                    <Text style={styles.data}>{this.props.plant.scientificName}</Text>
-                    <Text style={styles.label}>Common Name</Text>
-                    <Text style={styles.data}>{this.props.plant.commonName}</Text>
-                    <Text style={styles.label}>Khmer Name</Text>
-                    <Text style={styles.data}>{this.props.plant.khmerName || 'None Available'}</Text>
-                    <Text style={styles.label}>Family Name</Text>
-                    <Text style={styles.data}>{this.props.plant.familyName}</Text>
-                    <Text style={styles.label}>Plant Type</Text>
-                    <Text style={styles.data}>{this.props.plant.plantType}</Text>
-                    <Text style={styles.label}>Description / Characteristics</Text>
-                    <Text style={styles.data}>{this.props.plant.description}</Text>
-                    <Text style={styles.label}>Habitat</Text>
-                    <Text style={styles.data}>{this.props.plant.habitat}</Text>
-                    <Text style={styles.label}>Control Methods</Text>
-                    <Text style={styles.data}>{this.props.plant.controlMethods}</Text>
-                    <Text style={styles.label}>Reference</Text>
-                    <Text style={styles.data}>{this.props.plant.reference}</Text>
-                    <Text style={styles.label}>Image Copyright</Text>
-                    <Text style={styles.data}>{this.props.plant.imageCopyright}</Text>
-                </View>
-            </ScrollView>
+            </View>
         )
     }
 }

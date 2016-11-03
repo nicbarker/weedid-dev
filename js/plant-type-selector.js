@@ -51,7 +51,7 @@ export default class PlantTypeSelector extends Component {
                         <Text style={styles.imageText}>Seed</Text>
                     </TouchableHighlight>
                 </Image>
-                <Image style={styles.image} source={require('../images/seedling_overlay_2.png')}>
+                <Image style={styles.image} source={require('../images/seedling_overlay.png')}>
                     <TouchableHighlight activeOpacity={1} underlayColor={"rgba(0, 0, 0, 0.3)"} style={styles.imageBox} onPress={this.props.selectPlantType.bind(null, { key: 'seedling', title: 'Seedlings' })}>
                         <Text style={styles.imageText}>Seedling</Text>
                     </TouchableHighlight>
