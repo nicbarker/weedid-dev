@@ -26,7 +26,7 @@ import PlantIdentifier from './plant-identifier'
 import PlantData from './plant-data'
 import PlantImage from './plant-image'
 
-export default class project extends Component {
+export default class WeedID extends Component {
     selectPlantType (navigator, plantType) {
         navigator.push({ scene: PLANT_IDENTIFIER, plantType });
     }
