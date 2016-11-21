@@ -1,1 +1,1 @@
-
+WeedID is an app to assist Cambodian farmers in identifying weeds in rice fields. It contains a "photo dictionary" of various weed species in different stages of growth.

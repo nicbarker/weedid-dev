@@ -1,1 +1,1 @@
-
+This is the initial release of WeedID. Please to report any issues or suggestions, feedback is very valuable to us.

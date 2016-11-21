@@ -8,6 +8,6 @@ import {
     AppRegistry,
 } from 'react-native';
 
-import WeedID from './js/index'
+import WeedId from './js/index'
 
-AppRegistry.registerComponent('WeedID', () => WeedID);
+AppRegistry.registerComponent('WeedId', () => WeedId);
