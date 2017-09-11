@@ -1,10 +1,12 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 import {
   View,
   Image,
   Dimensions,
   Platform
-} from 'react-native';
+} from 'react-native'
+
+import Gallery from 'react-native-image-gallery'
 
 const styles = {
     container: {
@@ -26,21 +28,16 @@ const styles = {
     }
 }
 
-import PhotoView from 'react-native-photo-view';
-
 export default class PlantData extends Component {
 
     render () {
         let plantImage;
-        if (Platform.OS === 'ios') {
-            plantImage = (
-                <PhotoView style={styles.image} maximumZoomScale={10} source={this.props.image} />
-            )
-        } else {
-            plantImage = (
-                <Image style={styles.image} source={this.props.image} />
-            )
-        }
+        plantImage = (
+          <Gallery
+            style={{flex: 1, backgroundColor: 'black'}}
+            images={this.props.images}
+          />
+        )
         return (
             <View style={styles.container}>
                 {plantImage}

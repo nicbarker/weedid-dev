@@ -1,0 +1,183 @@
+    {
+        identifier: 1,
+        scientificName: `Cyperus difformis`,
+        commonName: `Small flower umbrella plant`,
+        khmerName: `កក់ធំ/កក់ជ្រុង`,
+        familyName: `Cyperacee`,
+        plantType: `កក់ (Sedge)`,
+        description: `ជារុក្ខជាតិដុះតាមរដូវកាល មានឬសជាសរសៃ ពណ៌ក្រហមព្រឺងៗ ដើមមានកំពស់រហូតដល់ ១០០ សង់ទីម៉ែត្រ។ ដើម ដុះជាគុម្ភៗ មានភាពរលូង ដុះឈរត្រង់ មានរាងត្រីកោណ(បីជ្រុង)កំរាស់ ២-៣ មម និងមានស្លាប(រាងដូចជាស្លឹក)ដុះចេញបន្តិច។ ស្លឹកខាងក្រោមៗ មាន ៣-៤ និងមានស្រទប ស្រោបតំរៀបគ្នានៅផ្នែកគល់ និងស្រទបនៅផែ្នកខាងក្រោម មានពណ៌ដូចចំបើងទៅពណ៌ត្នោត។ ស្លឹក មានភាពទន់ ត្រង់ ប្រវែងពី ១៥-៤៥ សង់ទីម៉ែត្រ។ កញ្ចុំផ្កា ដុះចេញជាកញ្ចុំៗ ដែលលេចឡើងនូវផ្នែកពីររាងដូចជាស្លឹក មានប្រវែង ១-៥ សង់ទីម៉ែត្រ ហើយខ្លះមានទងផ្កាវែង និងខ្លះទៀត ពុំមានទងផ្កាទេ។ គ្រាផ្កាតូចៗ មានចំនួនដ៏ច្រើន ប្រមូលផ្តុំគ្នាជាកញ្ចុំ ប្រវែង ២-៥ មម ។ គ្រាប់ផ្កាតូចៗនីមួយៗ មានផ្កាចាប់ពី ១០-៣០។ ផ្លែ មានលក្ខណះជាគ្រាប់ ពណ៌ត្នោតព្រឿងៗ រាងដូចពងក្រពើឬពងមាន់ ប្រហែលប្រហែល ០,៦ មម និងមានឆ្នូត។`,
+        habitat: `រុក្ខជាតិនេះ ដុះលូតលាស់យ៉ាងល្អនៅលើដីជន់ទឹក និងដីសើមមានជីជាតិល្អ ហើយជាទូទៅមាននៅក្នុងតំបន់ស្រូវទំនាប។ គេក៏ឃើញមានដុះនៅលើដីល្បាយឥដ្ឋឬខ្សាច់ខ្សត់ជីជាតិផងដែរ ប៉ុន្តែវាមិនមានភាពធន់ទ្រាំទៅនឹងកន្លែងមានទឹកជំនន់ជ្រៅទេ។ វាមានអាយុកាលខ្លី បន្តពូជដោយគ្រាប់ និងការផលិតគ្រាប់ ធ្វើឡើងក្នុងរយះពេញមួយឆ្នាំ។`,
+        controlMethods: `ដកដោយដៃ និងតាមបែបមេកានិច ប្រើថ្នាំសំលាប់ស្មៅនៅមុនពេលដាំដំណាំ និងក្រោយពេលដំណាំដុះពន្លក ឧ. 2,4-D ប្រើថ្នាំសំលាប់ស្មៅនៅមុនដំណាំដុះពន្លក ឧ. Butachlor http://www.knowledgebank.irri.org/training/fact-sheets/item/cyperus-difformis`,
+        reference: `http://www.knowledgebank.irri.org/training/fact-sheets/item/cyperus-difformis`,
+        imageCopyright: `លោកសាស្រ្តាចារ្យ Robert J. Martin ASR/University of Sydney bobmartin@asrcambodia.com`,
+        images: {
+            seed: require(`../images/cyperus-difformis/seed.jpg`),
+            mature: require(`../images/cyperus-difformis/mature.jpg`),
+            flower: require(`../images/cyperus-difformis/flower.jpg`)
+        },
+    },
+    {
+        identifier: 2,
+        scientificName: `Cyperus iria`,
+        commonName: `Rice flatsedge; Umbrella sedge`,
+        khmerName: `កក់មូល/កក់ក្តៀរ`,
+        familyName: `Cyperacee`,
+        plantType: `កក់ (Sedge)`,
+        description: `តិណទេស (រុក្ខជាតិមានខ្លិន) មានដុះជានៅតាមរដូវកាលដាំដុះ ឬម្តងម្កាលអាចមានដុះនៅច្រើនរដូវ មានឬសជាសរសៃ ពណ៌ក្រហមទៅលឿងចំនួនពី១៥-៧៥ ឬស មានប្រវែង ១០-៧០ សង់ទីម៉ែត្រ។ ដើម មានរាងបីជ្រុងស្រួច ដុះជាកញ្ចុំ/គុម្ព មានភាពរលោង កំពស់ ៥-៨០ សង់ទីម៉ែត្រ។ ស្លឹក មាននៅផ្នែកខាងក្រោម មានភាពគ្រើមនៅផ្នែកខាងលើ លូតត្រង់ មានភាពទន់ មានលក្ខណះស្រួចចុង និងទទឹងស្លឹកមានទំហំ ៣-៨។ ស្រទប មានពណ៌ក្រហមឬពណ៌ស្វាយព្រឿងៗ ស្រោបដើមនៅផ្នែកខាងក្រោម។ កញ្ចុំផ្កា គឺជាចង្កោមទោល ឬសមាសធាតុ ដែលមាន (ផ្សំឡើងពី) គ្រាប់ផ្កាតូចៗដែលមានរាងសំប៉ែតត្រង់ប្រវែង ៣-១០ មម។ ផ្លែ មានរាងជាមុំបីជ្រុងដែលគ្រាប់នៃផ្លែមានប្រវែង ១,០-១,៥ មីលីម៉ែត្រ រាងកោងបន្តិចនៅផ្នែកសងខាង ហើយមានពណ៌នៅចន្លោះពីត្នោតភ្លឺទៅខ្មៅ។`,
+        habitat: `មានដុះនៅក្នុងស្រែនៃតំបន់ដីសើម នៅក្នុងដំណាំដែលដាំតាមរដូវនៃតំបន់ដីស្ងួត និងនៅក្នុងចំការដំណាំផ្សេងៗ។ ពង្រីកខ្លូនយ៉ាងច្រើន ហើយអាចផលិតបាន ៣០០០-៥០០០ គ្រាប់ ក្នុងមួយដើម។ កូនស្មៅដុះយ៉ាងឆាប់រហ័សនៅក្រោយដំណាំស្រូវទើបតែនឹងបានដាំរួច។ ចេញផ្កានៅរយះពេល ១ ខែបន្ទាប់ និងអាចបង្កើតនៅជំនាន់ទីពី នៅក្នុងរដូវកាលដូចដូចគ្នា។ វាចេញផ្កានៅរយះពេលពេញមួយឆ្នាំ។`,
+        controlMethods: `ដកស្មៅដោយដៃ នៅដំណាក់កាលលូតលាស់ដំបូង ប្រើថ្នាំសំលាប់ស្មៅ នៅមុនពេល និងក្រោយពេលដុះពន្លក http://www.knowledgebank.irri.org/training/fact-sheets/item/cyperus-iria`,
+        reference: 'http://www.knowledgebank.irri.org/training/fact-sheets/item/cyperus-iria',
+        imageCopyright: `លោកសាស្រ្តាចារ្យ Prof Robert J. Martin ASR/University of Sydney bobmartin@asrcambodia.com`,
+        images: {
+            seed: require(`../images/cyperus-iria/seed.jpg`),
+            mature: require(`../images/cyperus-iria/mature.jpg`),
+            flower: require(`../images/cyperus-iria/flower.jpg`)
+        },
+    },
+    {
+        identifier: 3,
+        scientificName: `Echinochloa colona`,
+        commonName: `Awnless barnyard grass`,
+        khmerName: `ស្មៅបែកក្បាល`,
+        familyName: `Poaceae`,
+        plantType: `ស្មៅ (Grass)`,
+        description: `ជាស្មៅមានដុះនៅតាមរដូវកាលដាំដុះនិងដុះជាគុម្ព មានកំពស់រហូតដល់ ៦០ សម។ ដើម មានពណ៌ក្រហមស្វាយឬបៃតង ដុះឈរត្រង់ឡើងលើ និងមិនមានរោម។ ស្លឹក លូតត្រង់ ប្រវែង ១០-១៥ សង់ទីម៉ែត្រ នៅផ្នែកខាងក្រោម គឺតែងតែមានល្បាយពណ៌លាយឡំរវាងពណ៌ក្រហមនិងពណ៌ស្វាយ មិនមានអណ្តាតស្លឹក។ កញ្ចុំផ្កា គឺជាផ្កាទោល (មិនបែកមែក) មានកញ្ចុំផ្កាតូចដុះឡើងលើដែដលមានពណ៌បៃតងទៅស្វាយប្រវែងប្រមាណជា ៥-១៥ សង់ទីម៉ែត្រ និងគ្រាប់ផ្កាតូចៗ មានភ្ជាប់ទៅនឹងទងផ្កាប្រវែង ១-៣ មម។`,
+        habitat: `មានចេញផ្កានៅពេញមួយឆ្នាំ ហើយពង្រីកខ្លួន(ពូជ)ដោយគ្រាប់។ គ្រាប់ មានរយៈពេលដំណេកខ្លី។ វាអាចមានចំនួនដ៏ច្រើន និងស្រូបយកសារធាតុចិញ្ចឹមផ្សេងៗ។ តម្រូវការលូតលាស់គឺចូលចិត្តល័ក្ខខ័ណ្ឌមានសំណើមប៉ុន្តែមិនជន់លិចទេ ហើយវាមានបញ្ហាខ្លាំងនៅក្នុងស្រែទំនាបនិងខ្ពស់ច្រើនជាងក្នុងស្រែដែលមានទឹកជាប់រហូត។`,
+        controlMethods: ` ប្រើទឹកពន្លិច ដកស្មៅដោយដៃ ឬប្រើចបចូក ប្រើថ្នាំកំចាត់ស្មៅមុននិងក្រោយពេលដំណាំដុះពន្លក  http://www.knowledgebank.irri.org/training/fact-sheets/item/echinochloa-colona`,
+        reference: `http://www.knowledgebank.irri.org/training/fact-sheets/item/echinochloa-colona`,
+        imageCopyright: `លោកសាស្រ្តាចារ្យ Prof Robert J. Martin ASR/University of Sydney bobmartin@asrcambodia.com`,
+        images: {
+            seed: require(`../images/echinochloa-colona/seed.jpg`),
+            mature: require(`../images/echinochloa-colona/mature.jpg`),
+            flower: require(`../images/echinochloa-colona/flower.jpg`)
+        },
+    },
+    {
+        identifier: 4,
+        scientificName: `Ecinochloa crus galli`,
+        commonName: `Common barnyard grass`,
+        khmerName: `ស្មៅកន្ទុយឆ្កែ`,
+        familyName: `Poaceae`,
+        plantType: `ស្មៅ (Grass)`,
+        description: `ស្មៅដែលមានដុះក្នុងរដូវកាលដាំដុះ ដុះឈរឡើង ដុះជាគុម្ពឬរួមផ្តុំគ្នានៅគុល មានកំពស់រហូតដល់ ២០០ សង់ទីម៉ែត្រ។ ដើម មានដុះឬសចេញនៅតាមថ្នាំក្រោមៗ មានរាងជាបំពង់ គ្មានរោម និងមានសារធាតុស្ពោតទន់នៅផ្នែកកណ្តាលនៃបំពង់ដើម។ ស្លឹក លូតត្រង់ រាងមូលធំនៅគុលនិងស្តួចនៅចុងស្លឹក ផ្នែកសំប៉ែតនៃស្លឹកមានប្រវែង ១០-៤០ សង់ទីម៉ែត្រ មិនមានអណ្តាតស្លឹកទេ។ កញ្ចុំផ្កា មានពណ៌បៃតងតិចៗទៅពណ៌ស្វាយព្រឿងៗ មានប្រវែង ១០-២៥ សង់ទីម៉ែត្រ ផ្សំដោយចង្កោមផ្កាសមាសតូចៗច្រើន គ្រាប់ផ្កាតួចៗ គឺអាចមានចំនួនច្រើនឬតិច មានរាងជាពងក្រពើទ្រវែងស្រួចចុង ជាធម្មតាមានរោមបន្តិច បើគ្រាប់ផ្កាមានដុះកន្ទុយ គឺនឹងមានពណ៌បៃតងទៅពណ៌ស្វាយព្រឿងៗដែលមានប្រវែង ២-៥ មម។`,
+        habitat: `ពង្រីកខ្លួន(ពូជ)ដោយគ្រាប់។ មានចេញផ្កានៅពេញមួយឆ្នាំ និងអាចផលិតគ្រាប់ពូជបាននៅក្នុងរយះពេល ៦០ ថ្ងែ។ ចូលចិត្តដុះលើដីមានសំណើម ងាយនឹងដុះនៅក្នុងស្រែពង្រោះ និងតំបន់ដីមិនបានប្រើប្រាស់។ វា ជាពពួកស្មៅឃើញមានទូទៅនៅកន្លែងវាលភក់ល្បាប់ និងក្នុងទឹក។`,
+        controlMethods: `រៀបចំដីឲ្យបានល្អ ចំពោះដំណាំស្រូវនៅក្រោមល័ក្ខខ័ណ្ឌដីស្ងួត និងសើម ប្រើថ្នាំប្រភេទចំលងរោគផ្សិត ដូចជា Exserohilum Monoceras ប្រើថ្នាំកំចាត់ស្មៅមុននិងក្រោយពេលដំណាំដុះពន្លក http://www.knowledgebank.irri.org/training/fact-sheets/item/echinochloa-crus-galli`,
+        reference: `http://www.knowledgebank.irri.org/training/fact-sheets/item/echinochloa-crus-galli`,
+        imageCopyright: `លោកសាស្រ្តាចារ្យ Prof Robert J. Martin ASR/University of Sydney bobmartin@asrcambodia.com`,
+        images: {
+            seed: require(`../images/echinochloa-crus-galli/seed.jpg`),
+            mature: require(`../images/echinochloa-crus-galli/mature.jpg`),
+            flower: require(`../images/echinochloa-crus-galli/flower.jpg`)
+        },
+    },
+    {
+        identifier: 5,
+        scientificName: `Fimbristylis miliacea`,
+        commonName: `Lesser fimbrystylis`,
+        khmerName: `កក់ភ្នែកក្តាម`,
+        familyName: `Cyperacee`,
+        plantType: `កក់ (Sedge)`,
+        description: `ជាប្រភេទមានដុះក្នុងរដូវកាលដាំដុះនិងរដូវកាលផ្សេងៗទៀត គ្មានរោម បែកគុម្ពច្រើនខ្លាំង មានប្រភេទឬសជាសរសៃ និងមានកំពស់រហូតដល់ ៨០-៩០ សង់ទីម៉ែត្រ។ ដើម ៖ រាងតូចស្តើង ដុះឈរឡើងលើ ដុះជាគុម្ពដ៏ណែន ញឹកឆ្កាស់ មានភាពរលោង ហើយមានរាងជ្រុងខ្លាំងនៅផ្នែកខាងលើ និងរាងសំប៉ែតនៅផ្នែកខាងក្រោម និងមានកម្ពស់ ២០-៧០ សង់ទីម៉ែត្រ។ ស្លឹក៖ មានលក្ខណះ រឹងនិងដូចខ្សែអម្បោះ នៅលើដើមដែលគ្មានផ្កា គឺមានស្រទបសំប៉ែតជាពីរជួរ និងមិនទ្រនុងស្លឹកទេ ហើយនៅលើដើមដែលមានផ្កា គឺមានតែស្រទបស្លឹកលូតត្រង់ ស្លឹកនៅខាងក្រោមដុះស្របទៅនឹងស្រទបស្លឹក និងមិនមានអណ្តាតស្លឹកទេ។ កញ្ចុំផ្កា មានប្រវែង ៦-១០ សង់ទីម៉ែត្រ ជាប្រភេទកញ្ចុំផ្កាសមាសដែលគ្រាប់ផ្កាតូចៗចំនួន ៦-៥០ គ្រាប់ផ្កាតូចៗ មានពណ៌ត្នោតក្រហមព្រឿងៗ ប្រវែង ២-៤ មម អាចមានចុងវាងមូលឬស្រួច។ ផ្លែ ៖ មានពណ៌ដូចចំបើងឬពណ៌ស្លេកដូចភ្លុកដំរី មានប្រវែង ០,២-០,៣ មម។`,
+        habitat: `ពង្រីកខ្លួន(ពួជ)ដោយគ្រាប់ មានផ្កាពេញមួយឆ្នាំ និងអាចផលិតគ្រាប់ពូជបាន ១០០០០ ក្នុងមួយដើម។ គ្រាប់ស្មៅ អាចដុះភ្លាមនៅក្រោយពេលពីដើមដុះលូតលាស់បានពេញលេញ។ នៅក្នុងស្រែ កូនស្មៅ បង្ហាញខ្លួនយ៉ាងឆាប់នៅបន្ទាប់ពីស្រូវបានដាំរួច ហើយមានចេញផ្កានៅរយះពេលប្រហែលជាមួយខែ និងមានសមត្ថភាពក្នុងការផលិតស្មៅនៅជំនាន់ទីពីក្នុងរដូវកាលដូចគ្នានេះ។ ដុះពន្លកនៅកន្លែងដែលមានទឹករាក់ៗ ឬកន្លែងគ្មានទឹក ហើយកូនស្មៅអាចដុះពន្លកឡើងនៅគ្រប់ពេលទាំងអស់នៃការលូតលាស់របស់ដំណាំស្រូវ។`,
+        controlMethods: `ការដកដោយដៃ ថ្នាំកំចាត់ស្មៅ នៅក្រោយដំណាំដុះពន្លក ដូចជា 2,4-D http://www.knowledgebank.irri.org/training/fact-sheets/item/fimbristylis-miliacea`,
+        reference: `http://www.knowledgebank.irri.org/training/fact-sheets/item/fimbristylis-miliacea`,
+        imageCopyright: `លោកសាស្រ្តាចារ្យ Prof Robert J. Martin ASR/University of Sydney bobmartin@asrcambodia.com`,
+        images: {
+            seed: require(`../images/fimbristylis-miliacea/seed.jpg`),
+            mature: require(`../images/fimbristylis-miliacea/mature.jpg`),
+            flower: require(`../images/fimbristylis-miliacea/flower.jpg`)
+        },
+    },
+    {
+        identifier: 6,
+        scientificName: `Ischaemum rugosum`,
+        commonName: `Wrinkle duck beak`,
+        khmerName: `ស្មៅគល់ក្រហម`,
+        familyName: `Poaceae`,
+        plantType: `ស្មៅ (Grass)`,
+        description: `មានដុះក្នុងរដូវកាលដាំដុះ និងរដូវកាលផ្សេងៗទៀត ដុះឈរឡើងលើ មានកំពស់រហូតដល់ ១០០ សង់ទីម៉ែត្រ។ ដើម ៖ គឺតែងតែមានពណ៌ស្វាយព្រឿងៗ មានរោមតាមថ្នាំង និងមានរាងជាបំពង់។ ស្លឹក៖ ស្លឹកមានប្រវែង ១០-៣០ សង់ទីម៉ែត្រ គ្មានរោម ឬមានរោមនៅរ៉ាយប៉ាយនៅលើផ្ទៃទាំងពីរ មានស្រទបស្រោបស្លឹកយ៉ាងក្រាស់ មានពណ៌បៃតងឬស្វាយព្រឿងៗ មានរោមនៅផ្នែកគែមនៃស្លឹកហើយអណ្តាតស្លឹក ៖ ជាភ្នាស និងលាយឡំជាមួយត្រចៀកស្លឹក។ កញ្ចុំផ្កា៖ ជាគ្រាប់ផ្កាតំរៀបជាគួៗជ្រៀតជេងគ្នាខ្លាំង ដូច្នេះមានបង្ហាញដូចជាផ្កាទោល។ នៅដំណាក់កាលលូតលាស់ពេញលេញ វាតបានបំបែកចេញជាកញ្ចុំដូចផ្កាពីរផ្នែក។ គ្រាប់ផ្កាតូចៗ ៖ តំរៀបគ្នាជាគូរ ដែលគ្រាប់ផ្កាមួយភ្ជាប់ផ្ទាល់ទៅនឹងទងផ្កា និងមួយផ្នែកទៀតភ្ជាប់ដោយស្មែង។ គ្រាប់ផ្កាតូចដែលភ្ជាប់ទៅនឹងទងផ្កា មានពណ៌បៃតងលឿងព្រឿងៗប្រវែងរហូតដល់ ៦ មម ហើយស្រទាប់ផ្កាដំបូង ឃើញមានភាពជ្រួញច្បាស់ និងគន្ទុយគ្រាប់ផ្កា មានភាពរួញអង្កាញ់ៗនៅគល់កន្ទុយនិងមានពណ៌ស្រអាប់ខ្មៅ។`,
+        habitat: `ពង្រីកខ្លួន (ពូជ) ដោយគ្រាប់។ គ្រាប់ នឹងមិនដុះពន្លកនៅខណៈពេលដែលមានទឹកលិច តែបន្ទាប់ពីដុះពន្លករួច ពួកវាអាចដុះលូតលាស់បានយ៉ាងងាយស្រួលនៅក្រោមលក្ខខណ្ឌមានទឹកលិច។ ស្មៅគល់ក្រហម (Ischaemum Rugosum) ត្រូវគេឃើញមាននៅក្នុងលក្ខខណ្ឌដីសើម ពិសេសនៅក្នុងស្រែពង្រោះ។`,
+        controlMethods: `ដកស្មៅដោយដៃ ឬចូកដោយចប បាញ់ថ្នាំកំចាត់ស្មៅមុនពេលដំណាំដុះពន្លក ឧ. Butachlor or pendimethalin http://www.knowledgebank.irri.org/training/fact-sheets/item/ischaemum-rugosum-salisb`,
+        reference: `http://www.knowledgebank.irri.org/training/fact-sheets/item/ischaemum-rugosum-salisb`,
+        imageCopyright: `លោកសាស្រ្តាចារ Prof Robert J. Martin ASR/University of Sydney bobmartin@asrcambodia.com`,
+        images: {
+            seed: require(`../images/ischaemum-rugosum/seed.jpg`),
+            seedling: require(`../images/ischaemum-rugosum/seedling.jpg`),
+            mature: require(`../images/ischaemum-rugosum/mature.jpg`),
+            flower: require(`../images/ischaemum-rugosum/flower.jpg`)
+        },
+    },
+    {
+        identifier: 7,
+        scientificName: `Oryza sativa`,
+        commonName: `Weedy rice`,
+        khmerName: `ស្មៅស្រងែ`,
+        familyName: `Poaceae`,
+        plantType: `ស្មៅ (Grass)`,
+        description: `ជាប្រភេទស្មៅមានដុះនៅតាមរដូវកាល មានលក្ខណះប្រែប្រួល លូតឈរឡើង មានទំហំដើមតូចឆ្មាររឹងស្វិត មានភាពប្រែប្រួលទៅលើកំពស់និងទំរង់។ ដើម ៖ ដុះជាគុម្ព លូតឈរឡើង មានប្រហោងក្នុង រឹងស្វិត តូចឆ្មារ រលោង គ្មានរោម និងមានកំពស់ ៨0-១២0 សង់ទីម៉ែត្រ។ ស្លឹក ៖ រាងសំប៉ែតជាមួយនឹងសរសៃវ៉ែនស្រប ប្រវែង១៥-៣០ មានអណ្តាតនិងត្រចៀកស្លឹក។ អណ្តាតស្លឹក ជាទូទៅមានប្រវែង ១0-២0 មម។ កញ្ចុំផ្កា ៖ លូតឈរឡើង មានថ្នាំង កួរមិនណែន។ គ្រាប់ផ្កាតូចៗ មានប្រវែងប្រហែល ៧ មម រាងសំប៉ែត ផ្កាមួយៗអាចមានឬក៏គ្មានកន្ទុយ (awns)ដែលមានប្រវែងខុសៗគ្នា។`,
+        habitat: `ស្មៅស្រងែ (Weedy Rice) គឺមានភាពប្រែប្រួលខ្លាំង ដោយគិតទៅលើពូជដែលមានប្រភពពីការបង្កាត់ពួជផ្សេងៗជាមួយពូជព្រៃ (ដូចជា O. nivara, O. rufipogon) ឬជាលទ្ឋផលទទួលបានពីការបង្កាត់ពូជជាមួយពូជស្រូវក្នុងស្រុក។ គេអាចសម្គាល់លក្ខណះខុសគ្នាដោយការធ្វើពិសោធន៍ស្មៅសំខាន់ៗដែលមានចេញកួររួច ព្រមទាំងសកម្មភាពដំណេកគ្រាប់បន្ទាប់បន្សំផ្សេងទៀត ។ វា អាចមានភាពបន្សុំខ្ពស់ទៅនឹងលក្ខខណ្ឌបរិស្ថានច្រើនប្រភេទ ដូចជាពីស្ថានភាពដីស្ងួត ទៅកន្លែងមានទឹកជ្រៅ។ វាជាទូទៅមានសំបកគ្រាប់ស្រូវពណ៌ក្រហមដែលតម្រូវឱ្យមានការកិនបន្ថែមទៀត ដែលធ្វើដូចនេះ អាចនឹងកាត់បន្ថយគុណភាពនៃអង្ករ។`,
+        controlMethods: `ប្រើគ្រាប់ពូជមិនមានលាយជាមួយស្រងែ (weedy rice) ដាំដំណាំវិលជុំ ប្រអង្គុបវាយដី ដកស្មៅដោយនូវចំនួនដ៏ច្រើននៅតំណាក់កាលដំបូង និងការគ្រប់គ្រងទឹក។ ប្រើថ្នាំសំលាប់ស្មៅមុនពេលដាំដំណាំ http://www.knowledgebank.irri.org/training/fact-sheets/item/oryza-sativa`,
+        reference: `http://www.knowledgebank.irri.org/training/fact-sheets/item/oryza-sativa`,
+        imageCopyright: `លោកសាស្រ្តាចារ្យ Prof Robert J. Martin ASR/University of Sydney bobmartin@asrcambodia.com`,
+        images: {
+            seed: require(`../images/oryza-sativa/seed.jpg`),
+            mature: require(`../images/oryza-sativa/mature.jpg`),
+            flower: require(`../images/oryza-sativa/flower.jpg`)
+        },
+    },
+    {
+        identifier: 8,
+        scientificName: `Leptochloa chinensis`,
+        commonName: `Red sprangletop`,
+        khmerName: `ស្មៅអំពាក់`,
+        familyName: `Poaceae`,
+        plantType: `ស្មៅ (Grass)`,
+        description: `មានដុះនៅក្នុងរដូវកាលដាំដុះនិងរដូវកាលផ្សេងៗទៀត ដុះជាគុម្ព មានភាពរលូង មានកំពស់រហូតដល់ ១២០ សង់ទីម៉ែត្រ។ ដើម ៖ រាងតូចឆ្មារ មានប្រហោងក្នុង ដុះឈរឡើងដោយមានមែកបែកចេញពីគល់ មានដុះឬសនៅថ្នាំងខាងក្រោមៗ មានភាពរលោងនិងមិនមានរោម ដែលជាធម្មតាមាន ១០-២0 ថ្នាំង និងអាចមានកំពស់រហូតដល់ ៥0-១00 សង់ទីម៉ែត្រ។ ស្លឹក ៖ មានភាពរលោង លូតត្រង់ ប្រវែង ១0-៣0 សង់ទីម៉ែត្រ។ អណ្តាតស្លឹក ជាភ្នាសមិនច្បាស់លាស់ មានប្រវែង ១-២ មម និងត្រូវចែកជាផ្នែកដូចសរសៃឆ្មារៗ។ កញ្ចុំផ្កា ៖ មានរាងជាស៊ុតតូច កួរមិនណែន ទងផ្កាប្រវែង១0-៤0 សង់ទីម៉ែត្រ ដោយមានស្មែងឆ្មារៗនៃគ្រាប់ផ្កាតូចៗច្រើន មានកញ្ចុំផ្កាតូចៗច្រើន ដែលមួយៗមានគ្រាប់ផ្កាពីរជួរ ហើយគ្រាប់ផ្កានីមួយៗមានប្រវែង ២-៣,២ មម មានពណ៌ស្វាយព្រឿងៗទៅពណ៌បៃតង និងមានចេញផ្កាចំនួន ៤-៦។`,
+        habitat: `ស្មៅអំពាក់ (Red Sprangletop) បន្តពូជដោយគ្រាប់ ឬដុះលូតចេញពីមើម។ គ្រាប់ស្មៅ នឹងមិនដុះពន្លកនៅពេលមានទឹកលិច។`,
+        controlMethods: `ប្រើឧបករណ៏វាយដីក្នុងស្រែ ដកស្មៅដោយដៃនៅតំណាក់កាលលូតលាស់ដំបូង ប្រើថ្នាំកំចាត់ស្មៅនៅមុនពេលដំណាំដុះពន្លក ឧ. pendimethalin ប្រើថ្នាំកំចាត់ស្មៅក្រោយពេលដំណាំដុះពន្លក ឧ. Post-emergence herbicide e.g. quinclorac http://www.knowledgebank.irri.org/training/fact-sheets/item/leptochloa-chinensis`,
+        reference: `http://www.knowledgebank.irri.org/training/fact-sheets/item/leptochloa-chinensis`,
+        imageCopyright: `លោកសាស្រ្តាចារ្យ Prof Robert J. Martin ASR/University of Sydney bobmartin@asrcambodia.com`,
+        images: {
+            seed: require(`../images/leptochloa-chinensis/seed.jpg`),
+            seedling: require(`../images/leptochloa-chinensis/seedling.jpg`),
+            mature: require(`../images/leptochloa-chinensis/mature.jpg`),
+            flower: require(`../images/leptochloa-chinensis/flower.jpg`)
+        },
+    },
+    {
+        identifier: 9,
+        scientificName: `Panicum repens`,
+        commonName: `Torpedo grass`,
+        khmerName: `ស្មៅស្កាស់`,
+        familyName: `Poaceae`,
+        plantType: `ស្មៅ (Grass)`,
+        description: `មានដុះនៅច្រើនរដូវកាល។ មើមពន្លូតខ្លួន។ អាចមានឬមិនសាច់(ផ្នែកចន្លោះថ្នាំងនីមួយៗ)។ ចំពាមរបស់ដើម លូតឈរឡើង ការលូតឈរឡើងអាចមានកំពស់ ៣០-១០០ សង់ទីម៉ែត្រ។ ស្លឹក មានតំរៀបជាពីរជួរ។ អណ្តាតស្លឹក គឺជាភ្នាសមានរោមតិចៗ។ ស្លឹកស្មៅ លូតត្រង់ អាចមានភាពសំប៉ែតឬអង្កាញ់ៗដែលមានប្រវែង ៧-២៥ សង់ទីម៉ែត្រនិងទទឹង ២-៨ មម មានលក្ខណះដូចស្បែក រឹង និងពណ៌ខៀវខ្ចី។ ស្លឹក គឺអាចមានចុងរាងស្រួច (acute) រាងស្តួចចុងបន្តិច(obtuse) និងរាងមូល(rounded)។`,
+        habitat: `កន្លែងដុះលូតលាស់លក្ខណះជាធម្មជាតិ គឺភាគច្រើននៅលើដីល្បាយខ្សាច់ ប៉ុន្តែអាចមានភាពធន់ទ្រាំលើដីល្បាយឥដ្ឋខ្លាំង ដែលមានសំណើមដីខ្ពស់ដោយសារតែមានភ្លៀងធ្លាក់ជោគជាំច្រើន និងមានភាពការហូរច្រោះមិនបានល្អ។`,
+        controlMethods: `ប្រើថ្នាំកំចាត់ស្មៅមុនពេលដាំដំណាំ ឧ. Glyshopate ប្រើថ្នាំកំចាត់ស្មៅក្រោយពេលដំណាំដុះពន្លក ឧ. Quinclorac  http://www.cabi.org/isc/datasheet/38670`,
+        reference: `http://www.cabi.org/isc/datasheet/38670`,
+        imageCopyright: `លោកសាស្រ្តាចារ្យ Prof Robert J. Martin ASR/University of Sydney bobmartin@asrcambodia.com`,
+        images: {
+            seed: require(`../images/panicum-repens/seed.jpg`),
+            mature: require(`../images/panicum-repens/mature.jpg`),
+            flower: require(`../images/panicum-repens/flower.jpg`)
+        },
+    },
+    {
+        identifier: 10,
+        scientificName: `Ipomoea aquatica`,
+        commonName: `Swamp morning-glory`,
+        khmerName: `ត្រកួន`,
+        familyName: `Convolvulaceae`,
+        plantType: `ស្លឹកធំ (Broadleaf)`,
+        description: `ត្រកួន (I. aquatic) គឺមានលក្ខណះជាវល៌្លិ ដុះវារពង្រីកខ្លួន ឃើញមានដុះនៅក្នុងរដូវកាលដាំដុះនិងនៅរដូវកាលផ្សេងៗទៀត ដុះលូនវារនៅលើភក់ឬលើទឹក ដើមរាងជាបំពង់ មានបែកមែក ប្រហោងក្នុង និងមានរសជាតិឆ្ងាញ់នៅពេលដុះបណ្តែតខ្លួនលើទឹក បើមិនដូច្នេះទេ (ដុះលើដី) វានឹងមានភាពរឹងនិងស្វិត មានប្រវែងរហូតដល់ទៅ ៣ ម៉ែត្រ និងអង្កត់ផ្ចិតរហូតដល់ ១ សង់ទីម៉ែត្រ។`,
+        habitat: `ត្រកួន (I. aquatica) ឃើញមានដុះនៅក្នុងតំបន់ដីសើម វាលភក់ឬជន់លិច នៅក្នុងថ្លុករាក់ៗ ប្រឡាយ ឬវាលស្រែជំរ៉ៅ និងនៅតំបន់ដែលមានកំពស់ចាប់ពី ១០០០ ម៉ែត្រ ពីនីវ៉ូទឹកសមុទ្រ។ វា ដុះឡើងនូវចំនួនដ៏ច្រើនសន្ឋឹកសន្ឋាប់ និងអាចពង្រីកខ្លួនយ៉ាងងាយស្រួលដោយការតាត់ដើម។ វា ក៏ឃើញមានគេដាំដុះសម្រាប់ជាបន្លែផងដែរ ក្នុងតំបន់ផ្សេងៗទៀតនៅតំបន់អាស៊ី។`,
+        controlMethods: `ដកដោយដៃ (ប្រើជាបន្លែសម្រាប់ប្រើធ្វើម្ហូប)`,
+        reference: `https://plants.ifas.ufl.edu/plant-directory/ipomoea-aquatica/ https://worldcrops.org/crops/water-spinach`,
+        imageCopyright: `លោកសាស្រ្តាចារ្យ Prof Robert J. Martin ASR/University of Sydney bobmartin@asrcambodia.com`,
+        images: {
+            seed: require(`../images/ipomoea-aquatica/seed.png`),
+            seedling: require(`../images/ipomoea-aquatica/seedling.jpg`),
+            mature: require(`../images/ipomoea-aquatica/mature.jpg`),
+            flower: require(`../images/ipomoea-aquatica/flower.jpg`)
+        },
+    }
