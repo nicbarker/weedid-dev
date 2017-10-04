@@ -42,14 +42,14 @@ export default class MonocotDicotSelector extends Component {
       return (
         <View style={{ flex: 1, marginTop: 84 }}>
             <ScrollView contentContainerStyle={styles.container}>
-              <TouchableHighlight key={'monocot'} onPress={this.props.selectMonocotDicot.bind(null, 'monocot')}>
+              <TouchableHighlight key={'Monocot'} onPress={this.props.selectMonocotDicot.bind(null, 'Monocot')}>
                 <View style={styles.monocotDicotRow}>
                   <Text style={styles.monocotDicotText}>{'Monocot'}</Text>
                   <TouchableHighlight onPress={this.props.showImages.bind(null, [{ source: require('../images/monocot-dicot/Leafvein-monocot1.png') }])} key={1}><Image source={require('../images/monocot-dicot/Leafvein-monocot1.png')} style={styles.monocotDicotImage} /></TouchableHighlight>
                   <TouchableHighlight onPress={this.props.showImages.bind(null, [{ source: require('../images/monocot-dicot/Leafvein-monocot2.png') }])} key={2}><Image source={require('../images/monocot-dicot/Leafvein-monocot2.png')} style={styles.monocotDicotImage} /></TouchableHighlight>
                 </View>
               </TouchableHighlight>
-              <TouchableHighlight key={'dicot'} onPress={this.props.selectMonocotDicot.bind(null, 'dicot')}>
+              <TouchableHighlight key={'Dicot'} onPress={this.props.selectMonocotDicot.bind(null, 'Dicot')}>
                 <View style={styles.monocotDicotRow}>
                   <Text style={styles.monocotDicotText}>{'Dicot'}</Text>
                   <TouchableHighlight onPress={this.props.showImages.bind(null, [{ source: require('../images/monocot-dicot/Leafvein-dicot1.png') }])} key={1}><Image source={require('../images/monocot-dicot/Leafvein-dicot1.png')} style={styles.monocotDicotImage} /></TouchableHighlight>

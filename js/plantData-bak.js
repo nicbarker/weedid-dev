@@ -1,4 +1,4 @@
-export default = [
+export default [
   {
     "identifier": "1",
     "scientificName": "Cyperus difformis L.",
@@ -15,7 +15,7 @@ export default = [
     "herbicideResistance": "Has developed herbicide resisrance to ALS inhibitors (Group B2):  azimsulfuron, bensulfuron-methyl, bispyribac-sodium, and penoxsulam ",
     "reference": "http://www.knowledgebank.irri.org/training/fact-sheets/item/cyperus-difformis",
     "imageCopyright": "Prof Robert J. Martin\nASR/University of Sydney\nbobmartin@asrcambodia.com",
-    "images": { seed: require('../images/plant-images/Cyperus_difformis/Cyperus_difformis_seed_1.JPG'), mature: require('../images/plant-images/Cyperus_difformis/Cyperus_difformis_mature_1.JPG'), flower: require('../images/plant-images/Cyperus_difformis/Cyperus_difformis_flower_1.JPG')}
+    "images": { seed: require('../images/plant-images/Cyperus_difformis/Cyperus_difformis_seed_1.jpg'), mature: require('../images/plant-images/Cyperus_difformis/Cyperus_difformis_mature_1.jpg'), flower: require('../images/plant-images/Cyperus_difformis/Cyperus_difformis_flower_1.jpg')}
   },
   {
     "identifier": "2",
@@ -33,7 +33,7 @@ export default = [
     "herbicideResistance": "Has developed herbicide resisrance to ALS inhibitors (Group B2): pyrazosulfuron-ethyl and they may be cross-resistant to other Group B/2 herbicides.",
     "reference": "http://www.knowledgebank.irri.org/training/fact-sheets/item/cyperus-iria",
     "imageCopyright": "Prof Robert J. Martin\nASR/University of Sydney\nbobmartin@asrcambodia.com",
-    "images": { seed: require('../images/plant-images/Cyperus_iria/Cyperus_iria_seed_1.JPG'), mature: require('../images/plant-images/Cyperus_iria/Cyperus_iria_mature_1.JPG'), flower: require('../images/plant-images/Cyperus_iria/Cyperus_iria_flower_1.JPG')}
+    "images": { seed: require('../images/plant-images/Cyperus_iria/Cyperus_iria_seed_1.jpg'), mature: require('../images/plant-images/Cyperus_iria/Cyperus_iria_mature_1.jpg'), flower: require('../images/plant-images/Cyperus_iria/Cyperus_iria_flower_1.jpg')}
   },
   {
     "identifier": "3",
@@ -51,7 +51,7 @@ export default = [
     "herbicideResistance": "Multiple resistance has evolved to herbicides in the Groups B/2, C2/7, and L/26.  These particular biotypes are known to have resistance to imazethapyr, propanil, and quinclorac (MOA in monocots) and they may be cross-resistant to other herbicides in the Groups B/2, C2/7, and L/26.",
     "reference": "http://www.knowledgebank.irri.org/training/fact-sheets/item/echinochloa-colona",
     "imageCopyright": "Prof Robert J. Martin\nASR/University of Sydney\nbobmartin@asrcambodia.com",
-    "images": { seed: require('../images/plant-images/Echinochloa_colona/Echinochloa_colona_seed_1.JPG'), mature: require('../images/plant-images/Echinochloa_colona/Echinochloa_colona_mature_1.JPG'), flower: require('../images/plant-images/Echinochloa_colona/Echinochloa_colona_flower_1.JPG')}
+    "images": { seed: require('../images/plant-images/Echinochloa_colona/Echinochloa_colona_seed_1.jpg'), mature: require('../images/plant-images/Echinochloa_colona/Echinochloa_colona_mature_1.jpg'), flower: require('../images/plant-images/Echinochloa_colona/Echinochloa_colona_flower_1.jpg')}
   },
   {
     "identifier": "4",
@@ -69,7 +69,7 @@ export default = [
     "herbicideResistance": "Research has shown resistance to imazapyr, imazethapyr, and pyrazosulfuron-ethyl and they may be cross-resistant to other Group B/2 herbicides.",
     "reference": "http://www.knowledgebank.irri.org/training/fact-sheets/item/echinochloa-crus-galli",
     "imageCopyright": "Prof Robert J. Martin\nASR/University of Sydney\nbobmartin@asrcambodia.com",
-    "images": { seed: require('../images/plant-images/Echinochloa_crus/Echinochloa_crus_seed_1.JPG'), mature: require('../images/plant-images/Echinochloa_crus/Echinochloa_crus_mature_1.JPG'), flower: require('../images/plant-images/Echinochloa_crus/Echinochloa_crus_flower_1.JPG')}
+    "images": { seed: require('../images/plant-images/Echinochloa_crus/Echinochloa_crus_seed_1.jpg'), mature: require('../images/plant-images/Echinochloa_crus/Echinochloa_crus_mature_1.jpg'), flower: require('../images/plant-images/Echinochloa_crus/Echinochloa_crus_flower_1.jpg')}
   },
   {
     "identifier": "5",
@@ -87,7 +87,7 @@ export default = [
     "herbicideResistance": "imazapyr, imazethapyr, and pyrazosulfuron-ethyl and may be cross-resistant to other Group B/2 herbicides.",
     "reference": "http://www.knowledgebank.irri.org/training/fact-sheets/item/fimbristylis-miliacea",
     "imageCopyright": "Prof Robert J. Martin\nASR/University of Sydney\nbobmartin@asrcambodia.com",
-    "images": { seed: require('../images/plant-images/Fimbristylis_miliacea/Fimbristylis_miliacea_seed_1.JPG'), mature: require('../images/plant-images/Fimbristylis_miliacea/Fimbristylis_miliacea_mature_1.JPG'), flower: require('../images/plant-images/Fimbristylis_miliacea/Fimbristylis_miliacea_flower_1.JPG')}
+    "images": { seed: require('../images/plant-images/Fimbristylis_miliacea/Fimbristylis_miliacea_seed_1.jpg'), mature: require('../images/plant-images/Fimbristylis_miliacea/Fimbristylis_miliacea_mature_1.jpg'), flower: require('../images/plant-images/Fimbristylis_miliacea/Fimbristylis_miliacea_flower_1.jpg')}
   },
   {
     "identifier": "6",
@@ -105,7 +105,7 @@ export default = [
     "herbicideResistance": "Paraquat and may be cross-resistant to other Group D/22 herbicides.",
     "reference": "http://www.knowledgebank.irri.org/training/fact-sheets/item/ischaemum-rugosum-salisb",
     "imageCopyright": "Prof Robert J. Martin\nASR/University of Sydney\nbobmartin@asrcambodia.com",
-    "images": { seed: require('../images/plant-images/Ischaemum_rugosum/Ischaemum_rugosum_seed_1.JPG'), mature: require('../images/plant-images/Ischaemum_rugosum/Ischaemum_rugosum_mature_1.JPG'), flower: require('../images/plant-images/Ischaemum_rugosum/Ischaemum_rugosum_flower_1.JPG')}
+    "images": { seed: require('../images/plant-images/Ischaemum_rugosum/Ischaemum_rugosum_seed_1.jpg'), mature: require('../images/plant-images/Ischaemum_rugosum/Ischaemum_rugosum_mature_1.jpg'), flower: require('../images/plant-images/Ischaemum_rugosum/Ischaemum_rugosum_flower_1.jpg')}
   },
   {
     "identifier": "7",
@@ -123,7 +123,7 @@ export default = [
     "herbicideResistance": "Cyhalofop-butyl and  may be cross-resistant to other Group A/1 herbicides.",
     "reference": "http://www.knowledgebank.irri.org/training/fact-sheets/item/leptochloa-chinensis",
     "imageCopyright": "Prof Robert J. Martin\nASR/University of Sydney\nbobmartin@asrcambodia.com",
-    "images": { seed: require('../images/plant-images/Leptochloa_chinensis/Leptochloa_chinensis_seed_1.JPG'), mature: require('../images/plant-images/Leptochloa_chinensis/Leptochloa_chinensis_mature_1.JPG'), flower: require('../images/plant-images/Leptochloa_chinensis/Leptochloa_chinensis_flower_1.JPG')}
+    "images": { seed: require('../images/plant-images/Leptochloa_chinensis/Leptochloa_chinensis_seed_1.jpg'), mature: require('../images/plant-images/Leptochloa_chinensis/Leptochloa_chinensis_mature_1.jpg'), flower: require('../images/plant-images/Leptochloa_chinensis/Leptochloa_chinensis_flower_1.jpg')}
   },
   {
     "identifier": "8",
@@ -141,7 +141,7 @@ export default = [
     "herbicideResistance": "Not confirmed",
     "reference": "http://www.cabi.org/isc/datasheet/28781",
     "imageCopyright": "Prof Robert J. Martin\nASR/University of Sydney\nbobmartin@asrcambodia.com",
-    "images": { mature: require('../images/plant-images/Ipomoea_aquatica/Ipomoea_aquatica_mature_1.JPG'), flower: require('../images/plant-images/Ipomoea_aquatica/Ipomoea_aquatica_flower_1.JPG')}
+    "images": { mature: require('../images/plant-images/Ipomoea_aquatica/Ipomoea_aquatica_mature_1.jpg'), flower: require('../images/plant-images/Ipomoea_aquatica/Ipomoea_aquatica_flower_1.jpg')}
   },
   {
     "identifier": "9",
@@ -159,7 +159,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://www.knowledgebank.irri.org/training/fact-sheets/item/oryza-sativa",
     "imageCopyright": "Prof Robert J. Martin\nASR/University of Sydney\nbobmartin@asrcambodia.com",
-    "images": { seed: require('../images/plant-images/Oryza_sativa/Oryza_sativa_seed_1.JPG'), mature: require('../images/plant-images/Oryza_sativa/Oryza_sativa_mature_1.JPG'), flower: require('../images/plant-images/Oryza_sativa/Oryza_sativa_flower_1.JPG')}
+    "images": { seed: require('../images/plant-images/Oryza_sativa/Oryza_sativa_seed_1.jpg'), mature: require('../images/plant-images/Oryza_sativa/Oryza_sativa_mature_1.jpg'), flower: require('../images/plant-images/Oryza_sativa/Oryza_sativa_flower_1.jpg')}
   },
   {
     "identifier": "10",
@@ -177,7 +177,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://www.cabi.org/isc/datasheet/38670",
     "imageCopyright": "Prof Robert J. Martin\nASR/University of Sydney\nbobmartin@asrcambodia.com",
-    "images": { seed: require('../images/plant-images/Panicum_repens/Panicum_repens_seed_1.JPG'), mature: require('../images/plant-images/Panicum_repens/Panicum_repens_mature_1.JPG'), flower: require('../images/plant-images/Panicum_repens/Panicum_repens_flower_1.JPG')}
+    "images": { seed: require('../images/plant-images/Panicum_repens/Panicum_repens_seed_1.jpg'), mature: require('../images/plant-images/Panicum_repens/Panicum_repens_mature_1.jpg'), flower: require('../images/plant-images/Panicum_repens/Panicum_repens_flower_1.jpg')}
   },
   {
     "identifier": "11",
@@ -195,7 +195,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://keyserver.lucidcentral.org/key-server/data/08050103-0a0e-4e01-8a03-040d0c020e0a/media/Html/Melochia_corchorifolia.htm",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Melochia_corchorifolia/Melochia_corchorifolia_seed_1.JPG'), mature: require('../images/plant-images/Melochia_corchorifolia/Melochia_corchorifolia_mature_1.JPG'), flower: require('../images/plant-images/Melochia_corchorifolia/Melochia_corchorifolia_flower_2.JPG')}
+    "images": { seed: require('../images/plant-images/Melochia_corchorifolia/Melochia_corchorifolia_seed_1.jpg'), mature: require('../images/plant-images/Melochia_corchorifolia/Melochia_corchorifolia_mature_1.jpg'), flower: require('../images/plant-images/Melochia_corchorifolia/Melochia_corchorifolia_flower_2.jpg')}
   },
   {
     "identifier": "12",
@@ -213,7 +213,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://keyserver.lucidcentral.org/key-server/data/08050103-0a0e-4e01-8a03-040d0c020e0a/media/Html/Ludwigia_octovalvis.htm",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Ludwigia_octovalvis/Ludwigia_octovalvis_seed_1.JPG'), mature: require('../images/plant-images/Ludwigia_octovalvis/Ludwigia_octovalvis_mature_1.JPG')}
+    "images": { seed: require('../images/plant-images/Ludwigia_octovalvis/Ludwigia_octovalvis_seed_1.jpg'), mature: require('../images/plant-images/Ludwigia_octovalvis/Ludwigia_octovalvis_mature_1.jpg'), flower: require('../images/plant-images/Ludwigia_octovalvis/Ludwigia_octovalvis_mature_1.jpg')}
   },
   {
     "identifier": "13",
@@ -231,7 +231,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://keyserver.lucidcentral.org/key-server/data/08050103-0a0e-4e01-8a03-040d0c020e0a/media/Html/Cyanotis_axillaris.htm",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Cyanotis_axillaris/Cyanotis_axillaris_seed_1.JPG'), mature: require('../images/plant-images/Cyanotis_axillaris/Cyanotis_axillaris_mature_1.JPG'), flower: require('../images/plant-images/Cyanotis_axillaris/Cyanotis_axillaris_flower_2.JPG')}
+    "images": { seed: require('../images/plant-images/Cyanotis_axillaris/Cyanotis_axillaris_seed_1.jpg'), mature: require('../images/plant-images/Cyanotis_axillaris/Cyanotis_axillaris_mature_1.jpg'), flower: require('../images/plant-images/Cyanotis_axillaris/Cyanotis_axillaris_flower_2.jpg')}
   },
   {
     "identifier": "14",
@@ -249,7 +249,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://keyserver.lucidcentral.org/key-server/data/08050103-0a0e-4e01-8a03-040d0c020e0a/media/Html/Aeschynomene_indica.htm",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Aeschynomene_indica/Aeschynomene_indica_seed_1.JPG'), mature: require('../images/plant-images/Aeschynomene_indica/Aeschynomene_indica_mature_2.JPG'), flower: require('../images/plant-images/Aeschynomene_indica/Aeschynomene_indica_flower_2.JPG'), fruit: require('../images/plant-images/Aeschynomene_indica/Aeschynomene_indica_fruit_2.JPG')}
+    "images": { seed: require('../images/plant-images/Aeschynomene_indica/Aeschynomene_indica_seed_1.jpg'), mature: require('../images/plant-images/Aeschynomene_indica/Aeschynomene_indica_mature_2.jpg'), flower: require('../images/plant-images/Aeschynomene_indica/Aeschynomene_indica_flower_2.jpg'), fruit: require('../images/plant-images/Aeschynomene_indica/Aeschynomene_indica_fruit_2.jpg')}
   },
   {
     "identifier": "15",
@@ -267,7 +267,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://keyserver.lucidcentral.org/key-server/data/08050103-0a0e-4e01-8a03-040d0c020e0a/media/Html/Aeschynomene_aspera.htm",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Aeschynomene_aspera/Aeschynomene_aspera_seed_3.JPG'), mature: require('../images/plant-images/Aeschynomene_aspera/Aeschynomene_aspera_mature_2.JPG'), flower: require('../images/plant-images/Aeschynomene_aspera/Aeschynomene_aspera_flower_1.JPG'), fruit: require('../images/plant-images/Aeschynomene_aspera/Aeschynomene_aspera_fruit_3.JPG')}
+    "images": { seed: require('../images/plant-images/Aeschynomene_aspera/Aeschynomene_aspera_seed_3.jpg'), mature: require('../images/plant-images/Aeschynomene_aspera/Aeschynomene_aspera_mature_2.jpg'), flower: require('../images/plant-images/Aeschynomene_aspera/Aeschynomene_aspera_flower_1.jpg'), fruit: require('../images/plant-images/Aeschynomene_aspera/Aeschynomene_aspera_fruit_3.jpg')}
   },
   {
     "identifier": "16",
@@ -285,7 +285,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://keyserver.lucidcentral.org/key-server/data/08050103-0a0e-4e01-8a03-040d0c020e0a/media/Html/Paspalum_scrobiculatum.htm",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Paspalum_scrobiculatum/Paspalum_scrobiculatum_seed_1.JPG'), mature: require('../images/plant-images/Paspalum_scrobiculatum/Paspalum_scrobiculatum_mature_1.JPG'), flower: require('../images/plant-images/Paspalum_scrobiculatum/Paspalum_scrobiculatum_flower_1.JPG')}
+    "images": { seed: require('../images/plant-images/Paspalum_scrobiculatum/Paspalum_scrobiculatum_seed_1.jpg'), mature: require('../images/plant-images/Paspalum_scrobiculatum/Paspalum_scrobiculatum_mature_1.jpg'), flower: require('../images/plant-images/Paspalum_scrobiculatum/Paspalum_scrobiculatum_flower_1.jpg')}
   },
   {
     "identifier": "17",
@@ -303,7 +303,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://keyserver.lucidcentral.org/key-server/data/08050103-0a0e-4e01-8a03-040d0c020e0a/media/Html/Fimbristylis_dichotoma.htm",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Fimbristylis_dichotoma/Fimbristylis_dichotoma_seed_1.JPG'), mature: require('../images/plant-images/Fimbristylis_dichotoma/Fimbristylis_dichotoma_mature_1.JPG'), flower: require('../images/plant-images/Fimbristylis_dichotoma/Fimbristylis_dichotoma_flower_1.JPG')}
+    "images": { seed: require('../images/plant-images/Fimbristylis_dichotoma/Fimbristylis_dichotoma_seed_1.jpg'), mature: require('../images/plant-images/Fimbristylis_dichotoma/Fimbristylis_dichotoma_mature_1.jpg'), flower: require('../images/plant-images/Fimbristylis_dichotoma/Fimbristylis_dichotoma_flower_1.jpg')}
   },
   {
     "identifier": "18",
@@ -321,7 +321,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://keyserver.lucidcentral.org/key-server/data/08050103-0a0e-4e01-8a03-040d0c020e0a/media/Html/Eclipta_prostrata.htm",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Eclipta_prostrata/Eclipta_prostrata_seed_1.JPG'), mature: require('../images/plant-images/Eclipta_prostrata/Eclipta_prostrata_mature_1.JPG'), flower: require('../images/plant-images/Eclipta_prostrata/Eclipta_prostrata_flower_1.JPG')}
+    "images": { seed: require('../images/plant-images/Eclipta_prostrata/Eclipta_prostrata_seed_1.jpg'), mature: require('../images/plant-images/Eclipta_prostrata/Eclipta_prostrata_mature_1.jpg'), flower: require('../images/plant-images/Eclipta_prostrata/Eclipta_prostrata_flower_1.jpg')}
   },
   {
     "identifier": "19",
@@ -339,7 +339,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://keyserver.lucidcentral.org/key-server/data/08050103-0a0e-4e01-8a03-040d0c020e0a/media/Html/Commelina_benghalensis.htm",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Commelina_benghalensis/Commelina_benghalensis_seed_1.JPG'), mature: require('../images/plant-images/Commelina_benghalensis/Commelina_benghalensis_mature_1.JPG'), flower: require('../images/plant-images/Commelina_benghalensis/Commelina_benghalensis_flower_1.JPG')}
+    "images": { seed: require('../images/plant-images/Commelina_benghalensis/Commelina_benghalensis_seed_1.jpg'), mature: require('../images/plant-images/Commelina_benghalensis/Commelina_benghalensis_mature_1.jpg'), flower: require('../images/plant-images/Commelina_benghalensis/Commelina_benghalensis_flower_1.jpg')}
   },
   {
     "identifier": "20",
@@ -357,7 +357,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://keyserver.lucidcentral.org/key-server/data/08050103-0a0e-4e01-8a03-040d0c020e0a/media/Html/Actinoscirpus_grossus.htm",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Actinoscirpus_grossus/Actinoscirpus_grossus_seed_1.JPG'), mature: require('../images/plant-images/Actinoscirpus_grossus/Actinoscirpus_grossus_mature_1.JPG'), flower: require('../images/plant-images/Actinoscirpus_grossus/Actinoscirpus_grossus_flower_1.JPG')}
+    "images": { seed: require('../images/plant-images/Actinoscirpus_grossus/Actinoscirpus_grossus_seed_1.jpg'), mature: require('../images/plant-images/Actinoscirpus_grossus/Actinoscirpus_grossus_mature_1.jpg'), flower: require('../images/plant-images/Actinoscirpus_grossus/Actinoscirpus_grossus_flower_1.jpg')}
   },
   {
     "identifier": "21",
@@ -375,7 +375,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://keyserver.lucidcentral.org/key-server/data/08050103-0a0e-4e01-8a03-040d0c020e0a/media/Html/Schoenoplectus_juncoides.htm",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Schoenoplectus_juncoides/Schoenoplectus_juncoides_seed_1.JPG'), mature: require('../images/plant-images/Schoenoplectus_juncoides/Schoenoplectus_juncoides_mature_1.JPG')}
+    "images": { seed: require('../images/plant-images/Schoenoplectus_juncoides/Schoenoplectus_juncoides_seed_1.jpg'), mature: require('../images/plant-images/Schoenoplectus_juncoides/Schoenoplectus_juncoides_mature_1.jpg')}
   },
   {
     "identifier": "22",
@@ -393,7 +393,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://keyserver.lucidcentral.org/key-server/data/08050103-0a0e-4e01-8a03-040d0c020e0a/media/Html/Dactyloctenium_aegyptium.htm",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Dactyloctenium_aegyptium/Dactyloctenium_aegyptium_seed_1.JPG'), mature: require('../images/plant-images/Dactyloctenium_aegyptium/Dactyloctenium_aegyptium_mature_1.JPG'), flower: require('../images/plant-images/Dactyloctenium_aegyptium/Dactyloctenium_aegyptium_flower_1.JPG')}
+    "images": { seed: require('../images/plant-images/Dactyloctenium_aegyptium/Dactyloctenium_aegyptium_seed_1.jpg'), mature: require('../images/plant-images/Dactyloctenium_aegyptium/Dactyloctenium_aegyptium_mature_1.jpg'), flower: require('../images/plant-images/Dactyloctenium_aegyptium/Dactyloctenium_aegyptium_flower_1.jpg')}
   },
   {
     "identifier": "23",
@@ -411,7 +411,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://keyserver.lucidcentral.org/key-server/data/08050103-0a0e-4e01-8a03-040d0c020e0a/media/Html/Rottboellia_cochinchinensis.htm",
     "imageCopyright": "",
-    "images": { mature: require('../images/plant-images/Rottboellia_cochinchinensis/Rottboellia_cochinchinensis_mature_1.JPG'), flower: require('../images/plant-images/Rottboellia_cochinchinensis/Rottboellia_cochinchinensis_flower_1.JPG'), inflorescence: require('../images/plant-images/Rottboellia_cochinchinensis/Rottboellia_cochinchinensis_inflorescence_1.JPG'), ligule: require('../images/plant-images/Rottboellia_cochinchinensis/Rottboellia_cochinchinensis_ligule_1.JPG')}
+    "images": { mature: require('../images/plant-images/Rottboellia_cochinchinensis/Rottboellia_cochinchinensis_mature_1.jpg'), flower: require('../images/plant-images/Rottboellia_cochinchinensis/Rottboellia_cochinchinensis_flower_1.jpg'), inflorescence: require('../images/plant-images/Rottboellia_cochinchinensis/Rottboellia_cochinchinensis_inflorescence_1.jpg'), ligule: require('../images/plant-images/Rottboellia_cochinchinensis/Rottboellia_cochinchinensis_ligule_1.jpg')}
   },
   {
     "identifier": "24",
@@ -429,7 +429,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://keyserver.lucidcentral.org/key-server/data/08050103-0a0e-4e01-8a03-040d0c020e0a/media/Html/Sphenoclea_zeylanica.htm",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Sphenoclea_zeylanica/Sphenoclea_zeylanica_seed_1.JPG'), mature: require('../images/plant-images/Sphenoclea_zeylanica/Sphenoclea_zeylanica_mature_1.JPG'), inflorescence: require('../images/plant-images/Sphenoclea_zeylanica/Sphenoclea_zeylanica_inflorescence_1.JPG')}
+    "images": { seed: require('../images/plant-images/Sphenoclea_zeylanica/Sphenoclea_zeylanica_seed_1.jpg'), mature: require('../images/plant-images/Sphenoclea_zeylanica/Sphenoclea_zeylanica_mature_1.jpg'), inflorescence: require('../images/plant-images/Sphenoclea_zeylanica/Sphenoclea_zeylanica_inflorescence_1.jpg')}
   },
   {
     "identifier": "25",
@@ -447,7 +447,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://www.cabi.org/isc/datasheet/23248 http://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Chromolaena_odorata_(Chromolaena).htm https://www.daf.qld.gov.au/__data/assets/pdf_file/0015/50028/IPA-Siam-Weed-PP49.pdf",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Chromolaena_odorata/Chromolaena_odorata_seed_1.JPG'), mature: require('../images/plant-images/Chromolaena_odorata/Chromolaena_odorata_mature_1.JPG'), flower: require('../images/plant-images/Chromolaena_odorata/Chromolaena_odorata_flower_2.JPG')}
+    "images": { seed: require('../images/plant-images/Chromolaena_odorata/Chromolaena_odorata_seed_1.jpg'), mature: require('../images/plant-images/Chromolaena_odorata/Chromolaena_odorata_mature_1.jpg'), flower: require('../images/plant-images/Chromolaena_odorata/Chromolaena_odorata_flower_2.jpg')}
   },
   {
     "identifier": "26",
@@ -465,7 +465,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://www.cabi.org/isc/datasheet/35180",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Murdannia_nudiflora/Murdannia_nudiflora_seed_1.JPG'), ligule: require('../images/plant-images/Murdannia_nudiflora/Murdannia_nudiflora_ligule_1.JPG')}
+    "images": { seed: require('../images/plant-images/Murdannia_nudiflora/Murdannia_nudiflora_seed_1.jpg'), ligule: require('../images/plant-images/Murdannia_nudiflora/Murdannia_nudiflora_ligule_1.jpg')}
   },
   {
     "identifier": "27",
@@ -483,7 +483,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://www.tropicalforages.info/key/Forages/Media/Html/Aeschynomene_americana.htm http://www.fao.org/ag/agp/agpc/doc/gbase/DATA/pf000001.htm",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Aeschynomene_americana/Aeschynomene_americana_seed_1.JPG'), mature: require('../images/plant-images/Aeschynomene_americana/Aeschynomene_americana_mature_2.JPG'), flower: require('../images/plant-images/Aeschynomene_americana/Aeschynomene_americana_flower_3.JPG'), fruit: require('../images/plant-images/Aeschynomene_americana/Aeschynomene_americana_fruit_2.JPG')}
+    "images": { seed: require('../images/plant-images/Aeschynomene_americana/Aeschynomene_americana_seed_1.jpg'), mature: require('../images/plant-images/Aeschynomene_americana/Aeschynomene_americana_mature_2.jpg'), flower: require('../images/plant-images/Aeschynomene_americana/Aeschynomene_americana_flower_3.jpg'), fruit: require('../images/plant-images/Aeschynomene_americana/Aeschynomene_americana_fruit_2.jpg')}
   },
   {
     "identifier": "28",
@@ -501,7 +501,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Alysicarpus_monilifer/Alysicarpus_monilifer_seed_1.JPG'), mature: require('../images/plant-images/Alysicarpus_monilifer/Alysicarpus_monilifer_mature_2.JPG'), flower: require('../images/plant-images/Alysicarpus_monilifer/Alysicarpus_monilifer_flower_2.JPG')}
+    "images": { seed: require('../images/plant-images/Alysicarpus_monilifer/Alysicarpus_monilifer_seed_1.jpg'), mature: require('../images/plant-images/Alysicarpus_monilifer/Alysicarpus_monilifer_mature_2.jpg'), flower: require('../images/plant-images/Alysicarpus_monilifer/Alysicarpus_monilifer_flower_2.jpg')}
   },
   {
     "identifier": "29",
@@ -519,7 +519,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://www.worldagroforestry.org/treedb/AFTPDFS/Sesbania_bispinosa.PDF http://tropical.theferns.info/viewtropical.php?id=Sesbania+bispinosa http://www.feedipedia.org/node/255",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Sesbania_bispinosa/Sesbania_bispinosa_seed_1.JPG'), mature: require('../images/plant-images/Sesbania_bispinosa/Sesbania_bispinosa_mature_1.JPG')}
+    "images": { seed: require('../images/plant-images/Sesbania_bispinosa/Sesbania_bispinosa_seed_1.jpg'), mature: require('../images/plant-images/Sesbania_bispinosa/Sesbania_bispinosa_mature_1.jpg')}
   },
   {
     "identifier": "30",
@@ -537,7 +537,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200020717 http://www.plantwise.org/KnowledgeBank/Datasheet.aspx?dsid=30861 http://eol.org/pages/484450/overview",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Lindernia_antipoda/Lindernia_antipoda_seed_1.JPG'), mature: require('../images/plant-images/Lindernia_antipoda/Lindernia_antipoda_mature_1.JPG'), flower: require('../images/plant-images/Lindernia_antipoda/Lindernia_antipoda_flower_1.JPG')}
+    "images": { seed: require('../images/plant-images/Lindernia_antipoda/Lindernia_antipoda_seed_1.jpg'), mature: require('../images/plant-images/Lindernia_antipoda/Lindernia_antipoda_mature_1.jpg'), flower: require('../images/plant-images/Lindernia_antipoda/Lindernia_antipoda_flower_1.jpg')}
   },
   {
     "identifier": "31",
@@ -555,7 +555,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Ipomoea_obscura/Ipomoea_obscura_seed_1.JPG'), mature: require('../images/plant-images/Ipomoea_obscura/Ipomoea_obscura_mature_1.JPG'), flower: require('../images/plant-images/Ipomoea_obscura/Ipomoea_obscura_flower_1.JPG')}
+    "images": { seed: require('../images/plant-images/Ipomoea_obscura/Ipomoea_obscura_seed_1.jpg'), mature: require('../images/plant-images/Ipomoea_obscura/Ipomoea_obscura_mature_1.jpg'), flower: require('../images/plant-images/Ipomoea_obscura/Ipomoea_obscura_flower_1.jpg')}
   },
   {
     "identifier": "32",
@@ -573,7 +573,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Merremia_hederacea/Merremia_hederacea_seed_1.JPG'), mature: require('../images/plant-images/Merremia_hederacea/Merremia_hederacea_mature_1.JPG'), flower: require('../images/plant-images/Merremia_hederacea/Merremia_hederacea_flower_2.JPG')}
+    "images": { seed: require('../images/plant-images/Merremia_hederacea/Merremia_hederacea_seed_1.jpg'), mature: require('../images/plant-images/Merremia_hederacea/Merremia_hederacea_mature_1.jpg'), flower: require('../images/plant-images/Merremia_hederacea/Merremia_hederacea_flower_2.jpg')}
   },
   {
     "identifier": "33",
@@ -591,7 +591,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=242101113",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Cyperus_compactus/Cyperus_compactus_seed_1.JPG'), mature: require('../images/plant-images/Cyperus_compactus/Cyperus_compactus_mature_1.JPG'), flower: require('../images/plant-images/Cyperus_compactus/Cyperus_compactus_flower_2.JPG')}
+    "images": { seed: require('../images/plant-images/Cyperus_compactus/Cyperus_compactus_seed_1.jpg'), mature: require('../images/plant-images/Cyperus_compactus/Cyperus_compactus_mature_1.jpg'), flower: require('../images/plant-images/Cyperus_compactus/Cyperus_compactus_flower_2.jpg')}
   },
   {
     "identifier": "34",
@@ -609,7 +609,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Schoenoplectus_supinus/Schoenoplectus_supinus_seed_1.JPG'), mature: require('../images/plant-images/Schoenoplectus_supinus/Schoenoplectus_supinus_mature_1.JPG')}
+    "images": { seed: require('../images/plant-images/Schoenoplectus_supinus/Schoenoplectus_supinus_seed_1.jpg'), mature: require('../images/plant-images/Schoenoplectus_supinus/Schoenoplectus_supinus_mature_1.jpg')}
   },
   {
     "identifier": "35",
@@ -627,7 +627,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Scleria_lithosperma/Scleria_lithosperma_seed_2.JPG'), mature: require('../images/plant-images/Scleria_lithosperma/Scleria_lithosperma_mature_1.JPG'), flower: require('../images/plant-images/Scleria_lithosperma/Scleria_lithosperma_flower_1.JPG')}
+    "images": { seed: require('../images/plant-images/Scleria_lithosperma/Scleria_lithosperma_seed_2.jpg'), mature: require('../images/plant-images/Scleria_lithosperma/Scleria_lithosperma_mature_1.jpg'), flower: require('../images/plant-images/Scleria_lithosperma/Scleria_lithosperma_flower_1.jpg')}
   },
   {
     "identifier": "36",
@@ -645,7 +645,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://efloras.org/florataxon.aspx?flora_id=600&taxon_id=200013821 https://books.google.com.au/books?id=YKZCQ-KLgdwC&pg=PA585&lpg=PA585&dq=Pentapetes+phoenicea+broadleaf&source=bl&ots=l--LthXsa-&sig=jO3LK21mz4j2Jm5EIhPWDajDxe4&hl=en&sa=X&ved=0ahUKEwjb2Y7Tn5DSAhWBXrwKHeOVAmIQ6AEIIjAB#v=onepage&q=Pentapetes%20phoenicea%20broadleaf&f=false",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Pentapetes_phoenicea/Pentapetes_phoenicea_seed_1.JPG'), mature: require('../images/plant-images/Pentapetes_phoenicea/Pentapetes_phoenicea_mature_2.JPG'), flower: require('../images/plant-images/Pentapetes_phoenicea/Pentapetes_phoenicea_flower_4.JPG')}
+    "images": { seed: require('../images/plant-images/Pentapetes_phoenicea/Pentapetes_phoenicea_seed_1.jpg'), mature: require('../images/plant-images/Pentapetes_phoenicea/Pentapetes_phoenicea_mature_2.jpg'), flower: require('../images/plant-images/Pentapetes_phoenicea/Pentapetes_phoenicea_flower_4.jpg')}
   },
   {
     "identifier": "37",
@@ -663,7 +663,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=125179 http://publish.plantnet-project.org/project/riceweeds_en/collection/collection/information/details/PYLUR",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Phyllanthus_urinaria/Phyllanthus_urinaria_seed_1.JPG'), mature: require('../images/plant-images/Phyllanthus_urinaria/Phyllanthus_urinaria_mature_2.JPG'), fruit: require('../images/plant-images/Phyllanthus_urinaria/Phyllanthus_urinaria_fruit_1.JPG')}
+    "images": { seed: require('../images/plant-images/Phyllanthus_urinaria/Phyllanthus_urinaria_seed_1.jpg'), mature: require('../images/plant-images/Phyllanthus_urinaria/Phyllanthus_urinaria_mature_2.jpg'), fruit: require('../images/plant-images/Phyllanthus_urinaria/Phyllanthus_urinaria_fruit_1.jpg')}
   },
   {
     "identifier": "38",
@@ -681,7 +681,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242337488 http://tropical.theferns.info/viewtropical.php?id=Phyllanthus%20virgatus",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Phyllanthus_virgatus/Phyllanthus_virgatus_seed_1.JPG'), mature: require('../images/plant-images/Phyllanthus_virgatus/Phyllanthus_virgatus_mature_1.JPG'), fruit: require('../images/plant-images/Phyllanthus_virgatus/Phyllanthus_virgatus_fruit_1.JPG')}
+    "images": { seed: require('../images/plant-images/Phyllanthus_virgatus/Phyllanthus_virgatus_seed_1.jpg'), mature: require('../images/plant-images/Phyllanthus_virgatus/Phyllanthus_virgatus_mature_1.jpg'), fruit: require('../images/plant-images/Phyllanthus_virgatus/Phyllanthus_virgatus_fruit_1.jpg')}
   },
   {
     "identifier": "39",
@@ -699,7 +699,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200025246",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Digitaria_bicornis/Digitaria_bicornis_seed_2.JPG'), mature: require('../images/plant-images/Digitaria_bicornis/Digitaria_bicornis_mature_1.JPG'), flower: require('../images/plant-images/Digitaria_bicornis/Digitaria_bicornis_flower_1.JPG'), spikelet: require('../images/plant-images/Digitaria_bicornis/Digitaria_bicornis_spikelet_1.jpeg')}
+    "images": { seed: require('../images/plant-images/Digitaria_bicornis/Digitaria_bicornis_seed_2.jpg'), mature: require('../images/plant-images/Digitaria_bicornis/Digitaria_bicornis_mature_1.jpg'), flower: require('../images/plant-images/Digitaria_bicornis/Digitaria_bicornis_flower_1.jpg'), spikelet: require('../images/plant-images/Digitaria_bicornis/Digitaria_bicornis_spikelet_1.jpeg')}
   },
   {
     "identifier": "40",
@@ -717,7 +717,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://www.cabi.org/isc/datasheet/109219 https://keyserver.lucidcentral.org/weeds/data/media/Html/hymenachne_amplexicaulis.htm",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Hymenachne_amplexicaulis/Hymenachne_amplexicaulis_seed_1.JPG'), mature: require('../images/plant-images/Hymenachne_amplexicaulis/Hymenachne_amplexicaulis_mature_1.JPG')}
+    "images": { seed: require('../images/plant-images/Hymenachne_amplexicaulis/Hymenachne_amplexicaulis_seed_1.jpg'), mature: require('../images/plant-images/Hymenachne_amplexicaulis/Hymenachne_amplexicaulis_mature_1.jpg')}
   },
   {
     "identifier": "41",
@@ -735,7 +735,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://www.cabi.org/isc/datasheet/39769",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Pennisetum_pedicellatum/Pennisetum_pedicellatum_seed_1.JPG'), mature: require('../images/plant-images/Pennisetum_pedicellatum/Pennisetum_pedicellatum_mature_1.JPG'), flower: require('../images/plant-images/Pennisetum_pedicellatum/Pennisetum_pedicellatum_flower_1.JPG')}
+    "images": { seed: require('../images/plant-images/Pennisetum_pedicellatum/Pennisetum_pedicellatum_seed_1.jpg'), mature: require('../images/plant-images/Pennisetum_pedicellatum/Pennisetum_pedicellatum_mature_1.jpg'), flower: require('../images/plant-images/Pennisetum_pedicellatum/Pennisetum_pedicellatum_flower_1.jpg')}
   },
   {
     "identifier": "42",
@@ -753,7 +753,7 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=200026355",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Sporobolus_diander/Sporobolus_diander_seed_1.JPG'), mature: require('../images/plant-images/Sporobolus_diander/Sporobolus_diander_mature_2.JPG')}
+    "images": { seed: require('../images/plant-images/Sporobolus_diander/Sporobolus_diander_seed_1.jpg'), mature: require('../images/plant-images/Sporobolus_diander/Sporobolus_diander_mature_2.jpg')}
   },
   {
     "identifier": "43",
@@ -771,7 +771,7 @@ export default = [
     "herbicideResistance": "http://tropical.theferns.info/viewtropical.php?id=Corchorus+aestuans http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200013573",
     "reference": "",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Corchorus_aestuans/Corchorus_aestuans_seed_1.JPG'), mature: require('../images/plant-images/Corchorus_aestuans/Corchorus_aestuans_mature_1.JPG'), flower: require('../images/plant-images/Corchorus_aestuans/Corchorus_aestuans_flower_1.JPG')}
+    "images": { seed: require('../images/plant-images/Corchorus_aestuans/Corchorus_aestuans_seed_1.jpg'), mature: require('../images/plant-images/Corchorus_aestuans/Corchorus_aestuans_mature_1.jpg'), flower: require('../images/plant-images/Corchorus_aestuans/Corchorus_aestuans_flower_1.jpg')}
   },
   {
     "identifier": "44",
@@ -789,6 +789,6 @@ export default = [
     "herbicideResistance": "",
     "reference": "http://idtools.org/id/appw/factsheet.php?name=13084 http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200027359 http://www.iucnredlist.org/details/194171/0",
     "imageCopyright": "",
-    "images": { seed: require('../images/plant-images/Xyris_indica/Xyris_indica_seed_1.JPG'), mature: require('../images/plant-images/Xyris_indica/Xyris_indica_mature_1.JPG'), flower: require('../images/plant-images/Xyris_indica/Xyris_indica_flower_1.JPG')}
+    "images": { seed: require('../images/plant-images/Xyris_indica/Xyris_indica_seed_1.jpg'), mature: require('../images/plant-images/Xyris_indica/Xyris_indica_mature_1.jpg'), flower: require('../images/plant-images/Xyris_indica/Xyris_indica_flower_1.jpg')}
   }
 ]

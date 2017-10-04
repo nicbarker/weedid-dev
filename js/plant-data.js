@@ -104,9 +104,10 @@ export default class PlantData extends Component {
     }
 
     render () {
-        const images = _.map(this.props.plant.images, (image, key) => {
+        const images = _.keys(this.props.plant.images).map((key, index) => {
+            let image = this.props.plant.images[key]
             return (
-                <TouchableHighlight activeOpacity={1} underlayColor={"rgba(0, 0, 0, 0.3)"} style={styles.imageBox} onPress={this.props.showImages.bind(null, _.map(this.props.plant.images, (i) => { return { source: i } }))} key={key} testID={`plant-${this.props.plant.identifier}-image-${key}`}>
+                <TouchableHighlight activeOpacity={1} underlayColor={"rgba(0, 0, 0, 0.3)"} style={styles.imageBox} onPress={this.props.showImages.bind(null, _.map(this.props.plant.images, (i) => { return { source: i } }), index)} key={key} testID={`plant-${this.props.plant.identifier}-image-${key}`}>
                     <Image style={styles.image} source={image} />
                 </TouchableHighlight>
             )

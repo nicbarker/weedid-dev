@@ -46,3 +46,5 @@ ios/fastlane/screenshots
 *.mobileprovision
 *.cer
 ios/fastlane/report.xml
+
+utilities/files/*

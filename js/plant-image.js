@@ -36,6 +36,7 @@ export default class PlantData extends Component {
           <Gallery
             style={{flex: 1, backgroundColor: 'black'}}
             images={this.props.images}
+            initialPage={isNaN(this.props.initialImageIndex) ? 0 : this.props.initialImageIndex}
           />
         )
         return (
